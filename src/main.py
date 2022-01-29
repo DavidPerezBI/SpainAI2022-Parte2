@@ -1,3 +1,3 @@
-import streamlit as sr
+import streamlit as st
 
-sr.write('Hola Mundo, vamos!!')
+st.write('Hola Mundo, vamos!!')
